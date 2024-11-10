@@ -1,7 +1,7 @@
 *********************************************************************************
 *		Hola, Habla Eder Polo su Fiel servidor.				*
 *										*
-*	     AQUÍ ESTÁN TODAS LAS INSTRUCCIONES DE LA PRACTICA 04:		*
+*	     AQUÍ ESTÁN TODAS LAS INSTRUCCIONES DE LA PRACTICA 05:		*
 *										*
 *										*
 *********************************************************************************
